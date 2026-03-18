@@ -2,19 +2,33 @@
 DIY paper capacitor using aluminium foil and dielectric layering. Demonstrates charge storage, electric field formation, and capacitance variation with geometry. A practical exploration of fundamental analog concepts including filtering, resonance, and energy storage in passive components.
 # DIY Paper Capacitor: Charge Storage, Dielectric Behavior & Analog Fundamentals
 <p align="center">
-  <img src="images/construction.jpg" width="400">
+  <img src="cap.jpg" width="400">
+</p>
+<p align="center">
+  <img src="caps.jpg" width="400">
 </p>
 
 ##  Description
 
 This project focuses on the design and fabrication of a DIY capacitor using aluminium foil as conductive plates and paper as the dielectric medium. The objective is to experimentally study capacitance, energy storage, and the influence of physical parameters such as plate area, dielectric thickness, and material properties. The work bridges theoretical electrostatics with practical implementation, providing insight into real-world non-idealities of passive components.
+<p align="center">
+  <img src="cap plan.jpg" width="400">
+</p>
+<p align="center">
+  <img src="symbol.jpg" width="400">
+</p>
 
 ---
 
 ##  Working Principle
 
 A capacitor stores electrical energy in the form of an electric field established between two conductive plates separated by an insulating dielectric. When a voltage is applied, equal and opposite charges accumulate on the plates, creating an electric field across the dielectric.
-
+<p align="center">
+  <img src="structure.jpg" width="400">
+</p>
+<p align="center">
+  <img src="structure 2.jpg" width="400">
+</p>
 The ability of the capacitor to store charge is defined by its capacitance:
 
 ```math
@@ -33,7 +47,15 @@ In this project, paper serves as the dielectric, and its thickness and material 
 ---
 
 ##  Construction Details
-
+<p align="center">
+  <img src="cap plan.jpg" width="400">
+</p>
+<p align="center">
+  <img src="eq1.jpg" width="400">
+</p>
+<p align="center">
+  <img src="eq2.jpg" width="400">
+</p>
 The capacitor is constructed by layering aluminium foil sheets separated by paper. Multiple layers are stacked or rolled to increase the effective plate area while maintaining a compact structure.
 
 Key aspects:
